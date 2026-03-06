@@ -226,9 +226,6 @@
 - 提交格式：`<TYPE>(<SCOPE>): <SUBJECT>`
 - 分支命名：FEATURE/、BUGBIX/、HOTFIX/
 - 禁止：GIT ADD . / 强制推送 MAIN / 公共分支直接修改
-- 提交前确认：提交前一定要确认好文件，不要把不该提交的提交（如 node_modules、data.json、日志等）
-- 创建项目必写 .gitignore：任何新项目创建后，第一时间创建 .gitignore
-- 不提交整个工作区：永远不要执行 `git add .` 或 `git commit -a`
 
 ### GITHUB 规范
 - PR 格式：[TYPE] 描述，需要测试、描述完整

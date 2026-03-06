@@ -1,0 +1,13 @@
+# 忽略临时文件
+*.tmp
+*.log
+.DS_Store
+
+# 忽略环境变量文件
+.env
+.env.*
+
+# 忽略敏感文件
+*.pem
+*.key
+credentials.json
