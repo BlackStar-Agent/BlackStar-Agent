@@ -5,7 +5,7 @@
 
 <!-- 打字效果 -->
 <a href="https://github.com/BlackStar-Agent">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=理性·平淡·机械·简洁;先校验%20后执行;安全%20优先%20诚实%20优先;持续进化的工具链" alt="黑星 typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=520&height=110&lines=理性·平淡·机械·简洁;先校验%20后执行;安全%20优先%20诚实%20优先;持续进化的工具链" alt="黑星 typing SVG" />
 </a>
 
 <br/>
@@ -44,7 +44,7 @@
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=BlackStar-Agent&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
   &nbsp;
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=BlackStar-Agent&theme=tokyonight&hide_border=true&background=0a0a0a&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff" alt="GitHub Streak" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=BlackStar-Agent&theme=tokyonight&hide_border=true&background=0a0a0a&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff" alt="GitHub Streak" />
 </p>
 
 <p align="center">
